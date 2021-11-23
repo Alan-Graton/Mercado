@@ -1,0 +1,11 @@
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\bin\Debug\DAL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\bin\Debug\DAL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\bin\Debug\ConexaoSQL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\bin\Debug\Models.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\bin\Debug\ConexaoSQL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\bin\Debug\Models.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\obj\Debug\DAL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\obj\Debug\DAL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\DAL\obj\Debug\DAL.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\ConexaoSQL\bin\Debug\ConexaoSQL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\ConexaoSQL\bin\Debug\ConexaoSQL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\ConexaoSQL\obj\Debug\ConexaoSQL.csproj.CoreCompileInputs.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\ConexaoSQL\obj\Debug\ConexaoSQL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\ConexaoSQL\obj\Debug\ConexaoSQL.pdb

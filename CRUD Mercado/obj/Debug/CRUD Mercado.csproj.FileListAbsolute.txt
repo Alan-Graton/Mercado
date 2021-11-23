@@ -1,0 +1,18 @@
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\CRUD Mercado.exe.config
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\CRUD Mercado.exe
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\CRUD Mercado.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD Mercado.csproj.AssemblyReference.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD_Mercado.Properties.Resources.resources
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD Mercado.csproj.GenerateResource.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD Mercado.csproj.CoreCompileInputs.cache
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD Mercado.exe
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD Mercado.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD_Mercado.CadastroProdutos.resources
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\DAL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\Models.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\ConexaoSQL.dll
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\DAL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\Models.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\bin\Debug\ConexaoSQL.pdb
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD_Mercado.Frm_Pedidos.resources
+C:\Users\mdavb\OneDrive\Área de Trabalho\Aulas Práticas - Faculdade\Atividades de Banco de Dados\Mercado\CRUD Mercado\obj\Debug\CRUD Mercado.csproj.CopyComplete
